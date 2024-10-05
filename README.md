@@ -11,3 +11,4 @@
 - if overlap occurs end shape and start new shape
 - Make installable for both linux and windows
 - put mp4 of it working on repo
+- Add resize window and fullscreen button as options
