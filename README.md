@@ -12,3 +12,4 @@
 - Make installable for both linux and windows
 - put mp4 of it working on repo
 - Add resize window and fullscreen button as options
+- copy and paste feature
