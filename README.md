@@ -15,3 +15,4 @@
 - copy and paste feature
 - erase
 - highlight selected by moving through array as a different colour
+- Save array in a txt/JSON file to make a way to save sketches
